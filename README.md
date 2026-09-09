@@ -40,4 +40,14 @@ The implementation includes:
 * Support for multiple message blocks
 * 256-bit hash output
 
+## Credits
+
+This project was developed using TL-Verilog and Makerchip resources
+provided by **Steve Hoover / Redwood EDA**.
+
+- [Steve Hoover — GitHub](https://github.com/stevehoover)
+- [Redwood EDA — TL-Verilog](https://www.redwoodeda.com/tl-verilog)
+- [TL-Verilog Learning Resources](https://github.com/TL-X-org/TL-V_Projects)
+- [Makerchip](https://makerchip.com/)
+
 
